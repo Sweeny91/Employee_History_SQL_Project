@@ -1,7 +1,5 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](sql.png)
-
 ## Background
 
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
@@ -26,7 +24,7 @@ Note: You may hear the term "Data Modeling" in place of "Data Engineering," but 
 
 5. Push the above changes to GitHub.
 
-## Instructions
+## INSTRUCTIONS
 
 #### Data Modeling
 
@@ -81,24 +79,12 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 3. Create a bar chart of average salary by title.
 
-## Epilogue
 
-Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+### DELIVERABLES
 
-## Submission
-
-* Create an image file of your ERD.
-
-* Create a `.sql` file of your table schemata.
-
-* Create a `.sql` file of your queries.
-
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
-
-* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+Submitted in the Repository are folders containing:
+1.) "data": Contains all the given CSV files with updated data types necessary for importation into SQL tables
+2.) "Images": Contains PNG images of all Query Outputs and ERD image from quickdatabasediagrams.com
+3.) "Instructions": Contains all given instructions and original ReadMe file from the course Gitlab url
+4.) "sql_query_editor_schema": Contains queries and schematas used to generate the tables and outputs as seen in the images folder mentioned above
+5.) ".ipynb_checkpoints": Contains Jupyter Notebook files for BONUS assessment
