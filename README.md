@@ -71,8 +71,8 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 ### DELIVERABLES
 
 Submitted in the Repository are folders containing:
-1.) "data": Contains all the given CSV files with updated data types necessary for importation into SQL tables
-2.) "Images": Contains PNG images of all Query Outputs and ERD image from quickdatabasediagrams.com
-3.) "Instructions": Contains all given instructions and original ReadMe file from the course Gitlab url
-4.) "sql_query_editor_schema": Contains queries and schematas used to generate the tables and outputs as seen in the images folder mentioned above
-5.) ".ipynb_checkpoints": Contains Jupyter Notebook files for BONUS assessment
+- 1.) "data": Contains all the given CSV files with updated data types necessary for importation into SQL tables
+- 2.) "Images": Contains PNG images of all Query Outputs and ERD image from quickdatabasediagrams.com
+- 3.) "Instructions": Contains all given instructions and original ReadMe file from the course Gitlab url
+- 4.) "sql_query_editor_schema": Contains queries and schematas used to generate the tables and outputs as seen in the images folder mentioned above
+- 5.) ".ipynb_checkpoints": Contains Jupyter Notebook files for BONUS assessment
