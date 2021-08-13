@@ -1,15 +1,14 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL Challenge
+In this portion of the course we explored SQL and some of its powerful capabilities such as joining multiple tables together and using the findings to give a better understanding of the datasets as a whole. 
+Below is a give theoretical scenario in which data is to be analyzed using SQL and RDBMS techniques. pgAdmin was used as the RDBMS for this project.
+This project allowed me to have a better understanding of SQL and its capabilites. These skills can now be applied in other scenarios where SQL is required.
 
 ## Background
-
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-
-In this assignment, tables were designed in pgAdmin to accurately hold CSV data, CSVs were then imported into the SQL database, and lastly queries were completed in order to answer the given questions about the data, found in the instructions below.
+"It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files."
 
 Operations Performed:
 
 1. Data Engineering
-
 2. Data Analysis
 
 ## INSTRUCTIONS
