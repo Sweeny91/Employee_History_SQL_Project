@@ -1,6 +1,6 @@
 # SQL Challenge
 In this portion of the course we explored SQL and some of its powerful capabilities such as joining multiple tables together and using the findings to give a better understanding of the datasets as a whole. 
-Below is a give theoretical scenario in which data is to be analyzed using SQL and RDBMS techniques. pgAdmin was used as the RDBMS for this project.
+Below is a given theoretical scenario in which data is to be analyzed using SQL and RDBMS techniques. pgAdmin was used as the RDBMS for this project.
 This project allowed me to have a better understanding of SQL and its capabilites. These skills can now be applied in other scenarios where SQL is required.
 
 ## Background
